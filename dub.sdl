@@ -1,0 +1,6 @@
+name "ua-parser"
+description "D implementation of ua-parser"
+authors "Shripad Krishna" "Tobie Langel"
+homepage "https://github.com/ua-parser/uap-d"
+license "MIT"
+dependency "dyaml" version="~>0.9"
